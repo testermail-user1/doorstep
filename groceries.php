@@ -33,6 +33,7 @@
     </div>
     
         <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
+        
         </div>
     </form>
 <?php echo 'Copyrights' .date('Y') . "Web Master" ?>
