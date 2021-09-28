@@ -1,24 +1,5 @@
 {
-    "name":"DOOR_STEP/composer",
-    "description":"My First Project",
-    "authors": [
-        {
-            "name":"Pavan Bandi",
-            "email":"pavan.bandi10@gmail.com"
-        }
-    ],
-        "require": {
-            "ilumination/support":"^5.2"
-        },
-        "require-dev": {
-            "illuminate/container":"^5.2"
-        },
-        "autoload": {
-            "files":[],
-            "classmap":[],
-            "psr-4":[]
-        },
-        "autoload-dev":{
-
-        }
+    "require": {
+        "sendgrid/sendgrid": "^7.3"
     }
+}
