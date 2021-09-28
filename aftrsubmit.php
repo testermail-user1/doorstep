@@ -1,6 +1,6 @@
 <?php
     $title ="submitted";
-    include 'includes/header.php';
+    include 'Includes/header.php';
     include 'Database/connection.php';
     if(isset($_POST['submit'])){  //does it exist
         //extract values from the $_POST array
@@ -51,4 +51,4 @@
 <br>
 <br>
 <br>
-<?php require_once 'includes/footer.php'; ?>
+<?php include 'includes/footer.php'; ?>
