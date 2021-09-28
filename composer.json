@@ -1,11 +1,12 @@
 {
     "name":"DOOR_STEP/composer",
     "description":"My First Project",
-    "authors":[
+    "authors": [
         {
             "name":"Pavan Bandi",
-            "Mail":"pavan.bandi10@gmail.com",
-        },
+            "email":"pavan.bandi10@gmail.com"
+        }
+    ],
         "require": {
             "ilumination/support":"^5.2"
         },
@@ -21,4 +22,3 @@
 
         }
     }
-}
