@@ -1,7 +1,7 @@
 <?php
     $title ="submitted";
-    require_once 'includes/header.php';
-    require_once 'Database/connection.php';
+    include 'includes/header.php';
+    include 'Database/connection.php';
     if(isset($_POST['submit'])){  //does it exist
         //extract values from the $_POST array
         $fname = $_POST['FullName'];
