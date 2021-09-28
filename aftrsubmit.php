@@ -22,6 +22,7 @@
         }
     }   
 ?>
+<body>
 <h1 class="text-center text-success" class="color : green" > Thank You for your Order,we will reach you within 1 hour!! </h1>
 <div class="card" style="width: 40rem;">
     <div class="card-body">
@@ -52,3 +53,4 @@
 <br>
 <br>
 <?php require_once 'includes/footer.php'; ?>
+    </body>
