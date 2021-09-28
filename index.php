@@ -1,3 +1,4 @@
+
 <?php 
     $title = "HOME";
     require_once 'includes/header.php';
