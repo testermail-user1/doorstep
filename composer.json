@@ -2,8 +2,6 @@
     "name": "pavan/pavan",
     "description": "My first Project",
     "type": "project",
-    "require": {
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies"
-    }
+    "require": {}
 }
 
