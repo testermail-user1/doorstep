@@ -1,7 +1,7 @@
 <?php
     $title ="Groceries";
-    require_once 'includes/header.php';
-    require_once 'Database/connection.php';
+    include 'Includes/header.php';
+    include 'Database/connection.php';
 ?>
     <h1 class="text-center"> Welcome To The Grocery Shop </h1>
     <form method="post" action="aftrsubmit.php">
